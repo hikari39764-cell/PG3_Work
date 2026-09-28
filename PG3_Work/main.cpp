@@ -3,7 +3,7 @@
 
 void PrintHelloWorld() {
     std::printf("Hello, World!\n");
-    std::printf("こんにちは、世界！ ソフトウェアを作るのは楽しい。\n");
+    std::printf("こんにちは！\n");
 }
 
 int main() {
